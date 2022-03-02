@@ -111,6 +111,7 @@ body{
     box-shadow: inset 5px 5px 8px rgba(16, 16, 16,0.1),
                 inset -5px -5px 8px #ffffff;
     background: white;
+    width: 50px;
 }
 #eval {
     background: #33ccff;
